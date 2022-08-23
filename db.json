@@ -25,5 +25,8 @@
       "brand": "nike",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRghOw-P_9-1Fk_AYb7UlobDGMUw3ztXKvQOA&usqp=CAU"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
